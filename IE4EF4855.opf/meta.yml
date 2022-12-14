@@ -1,0 +1,28 @@
+id: IE4EF4855
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 15:19:07.162938+00:00
+last_modified: 2022-12-14 15:19:07.162943+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-18T04:04:33.736Z'
+  creationid: mabja
+  eft-text-id: UT22084-062-018
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_218-Purification_of_Karmic_Obscurations-v1
+bases:
+  BF41:
+    source_metadata: null
+    order: 1
+    base_file: BF41.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
